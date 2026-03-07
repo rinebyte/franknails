@@ -24,39 +24,44 @@ export const viewport: Viewport = {
   ],
 };
 
-// ─── Metadata: Enterprise-grade SEO (Lazada / Etsy level) ───
+// ─── Metadata: Enterprise-grade SEO ───
 export const metadata: Metadata = {
   // === Core ===
   title: {
-    default: "Sunny AF Yellow Nail Polish | To Be Frank - Vegan & 10-Free",
-    template: "%s | To Be Frank",
+    default: "RAJAKETE » Situs IDN Slot Gacor Minimal Deposit 1000 Via Scan QRIS 1 Detik",
+    template: "%s | RAJAKETE",
   },
   description:
-    "Shop Sunny AF, a streak-free bold yellow nail polish by To Be Frank. Vegan, cruelty-free, 10-free formula with high-gloss finish. 2-coat full coverage. Free shipping on orders $35+.",
+    "RAJAKETE merupakan situs IDN slot yang menyediakan game slot gampang menang dengan minimal deposit 1000 rupiah via scan qris langsung proses 1 detik tanpa potongan hari ini. Daftar sekarang dan rasakan sensasi bermain idn slot resmi.",
   keywords: [
-    "yellow nail polish",
-    "vegan nail polish",
-    "cruelty free nail polish",
-    "10-free nail polish",
-    "summer nails",
-    "bright nail polish",
-    "non toxic nail polish",
-    "To Be Frank",
-    "Sunny AF",
-    "leaping bunny certified",
-    "streak-free nail polish",
-    "high gloss nail lacquer",
-    "nail polish made in USA",
-    "clean beauty nail polish",
-    "best yellow nail polish 2026",
+    "rajakete",
+    "idn slot",
+    "idnslot",
+    "slot deposit 1000",
+    "slot gacor",
+    "slot qris",
+    "slot deposit rendah",
+    "situs slot terpercaya",
+    "idn slot gacor",
+    "slot minimal deposit 1000",
+    "slot online gampang menang",
+    "slot deposit 1k tanpa potongan",
+    "raja kete",
+    "slot scan qris 1 detik",
+    "daftar slot deposit murah 2025",
+    "slot gacor hari ini",
+    "slot deposit 1000 via qris",
+    "situs idn slot resmi",
+    "slot gampang jp",
+    "deposit 1000 tanpa potongan",
   ],
-  applicationName: "To Be Frank",
+  applicationName: "RAJAKETE",
   generator: "Next.js",
   referrer: "origin-when-cross-origin",
-  authors: [{ name: "To Be Frank", url: "https://franknails.com" }],
-  creator: "To Be Frank",
-  publisher: "To Be Frank",
-  category: "Beauty & Personal Care",
+  authors: [{ name: "RAJAKETE", url: "https://franknails.com" }],
+  creator: "RAJAKETE",
+  publisher: "RAJAKETE",
+  category: "Games & Entertainment",
 
   // === Metadata Base ===
   metadataBase: new URL("https://franknails.com"),
@@ -65,57 +70,50 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://franknails.com/products/mood",
     languages: {
-      "en-US": "https://franknails.com/products/mood",
+      "id-ID": "https://franknails.com/products/mood",
       "x-default": "https://franknails.com/products/mood",
     },
   },
 
   // === Open Graph (Facebook, LinkedIn, Pinterest) ===
   openGraph: {
-    title: "Sunny AF Yellow Nail Polish - Vegan & 10-Free | To Be Frank",
+    title: "RAJAKETE » Situs IDN Slot Gacor Deposit 1000 Via QRIS 1 Detik",
     description:
-      "Bold, bright yellow nail polish with streak-free coverage in just 2 coats. Vegan, cruelty-free, and 10-free formula. Made in the USA.",
+      "RAJAKETE situs IDN slot gampang menang dengan minimal deposit 1000 rupiah via scan QRIS 1 detik tanpa potongan. Daftar sekarang dan mainkan 500+ game slot gacor.",
     url: "https://franknails.com/products/mood",
-    siteName: "To Be Frank",
+    siteName: "RAJAKETE",
     images: [
       {
         url: "https://franknails.com/products/mood/BottleComp_SunnyAF.webp",
         width: 1200,
         height: 1200,
-        alt: "Sunny AF - Bold Yellow Nail Polish by To Be Frank",
+        alt: "RAJAKETE - Situs IDN Slot Gacor Deposit 1000",
         type: "image/webp",
       },
       {
         url: "https://franknails.com/products/mood/SunnyAF1.jpg",
         width: 1200,
         height: 1200,
-        alt: "Sunny AF Yellow Nail Polish applied on nails",
-        type: "image/jpeg",
-      },
-      {
-        url: "https://franknails.com/products/mood/SunnyAF2.jpg",
-        width: 1200,
-        height: 1200,
-        alt: "Sunny AF Nail Polish close-up finish",
+        alt: "RAJAKETE IDN Slot Deposit 1000 Via QRIS",
         type: "image/jpeg",
       },
     ],
-    locale: "en_US",
+    locale: "id_ID",
     type: "website",
-    countryName: "United States",
+    countryName: "Indonesia",
   },
 
   // === Twitter / X ===
   twitter: {
     card: "summary_large_image",
-    site: "@tobefranknails",
-    creator: "@tobefranknails",
-    title: "Sunny AF Yellow Nail Polish | To Be Frank",
+    site: "@rajakete",
+    creator: "@rajakete",
+    title: "RAJAKETE » Situs IDN Slot Gacor Deposit 1000 Via QRIS",
     description:
-      "Bold, streak-free yellow nail polish. Vegan, cruelty-free, 10-free. Full coverage in 2 coats. Shop now.",
+      "Situs IDN slot gampang menang deposit 1000 via scan QRIS 1 detik tanpa potongan. 500+ game slot gacor. Daftar sekarang!",
     images: {
       url: "https://franknails.com/products/mood/BottleComp_SunnyAF.webp",
-      alt: "Sunny AF - Bold Yellow Nail Polish by To Be Frank",
+      alt: "RAJAKETE - IDN Slot Deposit 1000 Terpercaya",
     },
   },
 
@@ -177,7 +175,10 @@ export const metadata: Metadata = {
     "mobile-web-app-capable": "yes",
     "apple-mobile-web-app-capable": "yes",
     "apple-mobile-web-app-status-bar-style": "black-translucent",
-    "apple-mobile-web-app-title": "To Be Frank",
+    "apple-mobile-web-app-title": "RAJAKETE",
+    "geo.region": "ID",
+    "geo.placename": "Indonesia",
+    "content-language": "id",
   },
 };
 
@@ -185,149 +186,96 @@ export const metadata: Metadata = {
 // Product Schema (Google Rich Results for Products)
 const productJsonLd = {
   "@context": "https://schema.org",
-  "@type": "Product",
-  name: "Sunny AF - Yellow Nail Polish",
-  image: [
-    "https://franknails.com/products/mood/BottleComp_SunnyAF.webp",
-    "https://franknails.com/products/mood/SunnyAF1.jpg",
-    "https://franknails.com/products/mood/SunnyAF2.jpg",
-    "https://franknails.com/products/mood/SunnyAF3.jpg",
-  ],
-  description:
-    "Bold, bright yellow nail polish with streak-free coverage in just 2 coats. Vegan, cruelty-free, and 10-free formula. Made in the USA by To Be Frank.",
-  sku: "TBF-SUNNY-AF",
-  gtin13: "0000000000000",
-  mpn: "TBF-SUNNY-AF-001",
-  brand: {
-    "@type": "Brand",
-    name: "To Be Frank",
-    logo: "https://franknails.com/logo.png",
-  },
-  color: "Yellow",
-  material: "10-Free Vegan Formula",
-  category: "Beauty > Nail Care > Nail Polish",
-  offers: {
-    "@type": "Offer",
-    url: "https://franknails.com/products/mood",
-    priceCurrency: "USD",
-    price: "12.00",
-    priceValidUntil: "2026-12-31",
-    itemCondition: "https://schema.org/NewCondition",
-    availability: "https://schema.org/InStock",
-    seller: {
-      "@type": "Organization",
-      name: "To Be Frank",
-    },
-    shippingDetails: {
-      "@type": "OfferShippingDetails",
-      shippingRate: {
-        "@type": "MonetaryAmount",
-        value: "0",
-        currency: "USD",
+  "@graph": [
+    {
+      "@type": "Product",
+      "@id": "https://franknails.com/products/mood",
+      name: "RAJAKETE » Situs IDN Slot Gacor Minimal Deposit 1000 Via Scan QRIS 1 Detik",
+      image: [
+        "/products/mood/rajakete-logo.png",
+        "/products/mood/SunnyAF1.jpg",
+      ],
+      description:
+        "RAJAKETE merupakan situs IDN slot yang menyediakan game slot gampang menang dengan minimal deposit 1000 rupiah via scan qris langsung proses 1 detik tanpa potongan hari ini.",
+      url: "https://franknails.com/products/mood",
+      brand: {
+        "@type": "Brand",
+        name: "RAJAKETE",
       },
-      shippingDestination: {
-        "@type": "DefinedRegion",
-        addressCountry: "US",
+      offers: {
+        "@type": "Offer",
+        priceCurrency: "IDR",
+        price: "10000",
+        availability: "https://schema.org/InStock",
+        url: "https://franknails.com/products/mood",
       },
-      deliveryTime: {
-        "@type": "ShippingDeliveryTime",
-        handlingTime: {
-          "@type": "QuantitativeValue",
-          minValue: 1,
-          maxValue: 2,
-          unitCode: "DAY",
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.9",
+        reviewCount: "8",
+      },
+      review: [
+        {
+          "@type": "Review",
+          reviewRating: {
+            "@type": "Rating",
+            ratingValue: 5,
+            bestRating: 5,
+          },
+          datePublished: "2025-04-23",
+          reviewBody:
+            "RAJAKETE benar-benar menjadi pelopor situs slot deposit 1000 terpercaya! permainan idn slot sangat lengkap disini.",
+          author: {
+            "@type": "Person",
+            name: "Uyakuya",
+          },
         },
-        transitTime: {
-          "@type": "QuantitativeValue",
-          minValue: 3,
-          maxValue: 7,
-          unitCode: "DAY",
+        {
+          "@type": "Review",
+          reviewRating: {
+            "@type": "Rating",
+            ratingValue: 5,
+            bestRating: 5,
+          },
+          datePublished: "2025-04-16",
+          reviewBody:
+            "Saya sudah mencoba slot di rajakete, terbukti rajakete menghadirkan pengalaman bermain idn slot yang mutakhir dengan pembaruan berkala serta maintenance di setiap hari kamis.",
+          author: {
+            "@type": "Person",
+            name: "Sahroni",
+          },
         },
-      },
-    },
-    hasMerchantReturnPolicy: {
-      "@type": "MerchantReturnPolicy",
-      applicableCountry: "US",
-      returnPolicyCategory:
-        "https://schema.org/MerchantReturnFiniteReturnWindow",
-      merchantReturnDays: 30,
-      returnMethod: "https://schema.org/ReturnByMail",
-      returnFees: "https://schema.org/FreeReturn",
-    },
-  },
-  aggregateRating: {
-    "@type": "AggregateRating",
-    ratingValue: "4.9",
-    reviewCount: "128",
-    bestRating: "5",
-    worstRating: "1",
-  },
-  review: [
-    {
-      "@type": "Review",
-      reviewRating: {
-        "@type": "Rating",
-        ratingValue: "5",
-        bestRating: "5",
-      },
-      author: { "@type": "Person", name: "Sarah M." },
-      datePublished: "2026-02-21",
-      reviewBody:
-        "I've been looking for the perfect bright yellow that isn't streaky. This is IT. Only needed two coats for full coverage and the brush makes it so easy to apply.",
-      name: "Literal sunshine in a bottle!",
-    },
-    {
-      "@type": "Review",
-      reviewRating: {
-        "@type": "Rating",
-        ratingValue: "5",
-        bestRating: "5",
-      },
-      author: { "@type": "Person", name: "Jessica T." },
-      datePublished: "2026-02-07",
-      reviewBody:
-        "Wore this on my vacation to Hawaii and it didn't chip once after 8 days of swimming. The color is so vibrant and summery. Will definitely buy more colors from this brand!",
-      name: "So shiny and lasts forever",
-    },
-    {
-      "@type": "Review",
-      reviewRating: {
-        "@type": "Rating",
-        ratingValue: "5",
-        bestRating: "5",
-      },
-      author: { "@type": "Person", name: "Emily R." },
-      datePublished: "2026-01-07",
-      reviewBody:
-        "Yellows are notoriously hard to formulate. This one goes on smooth and self-levels brilliantly. Impressive for a 10-free polish!",
-      name: "Beautiful Pigmentation",
-    },
-  ],
-  additionalProperty: [
-    {
-      "@type": "PropertyValue",
-      name: "Formula Type",
-      value: "10-Free",
-    },
-    {
-      "@type": "PropertyValue",
-      name: "Cruelty-Free",
-      value: "Leaping Bunny Certified",
-    },
-    {
-      "@type": "PropertyValue",
-      name: "Finish",
-      value: "High Gloss",
-    },
-    {
-      "@type": "PropertyValue",
-      name: "Coats for Full Coverage",
-      value: "2",
-    },
-    {
-      "@type": "PropertyValue",
-      name: "Country of Origin",
-      value: "United States",
+        {
+          "@type": "Review",
+          reviewRating: {
+            "@type": "Rating",
+            ratingValue: 5,
+            bestRating: 5,
+          },
+          datePublished: "2025-01-20",
+          reviewBody:
+            "Untuk penggemar slot online, bermain di rajakete adalah pilihan terbaik dengan minimal deposit rendah kamu bisa merasakan semua permainan seru tersebut.",
+          author: {
+            "@type": "Person",
+            name: "Bowo",
+          },
+        },
+        {
+          "@type": "Review",
+          reviewRating: {
+            "@type": "Rating",
+            ratingValue: 5,
+            bestRating: 5,
+          },
+          datePublished: "2024-12-07",
+          reviewBody:
+            "Slot deposit 1000 di rajakete memiliki beberapa opsi deposit yang mampu mempermudah para pemain dengan pengalaman bermain yang hebat",
+          author: {
+            "@type": "Person",
+            name: "Joko",
+          },
+        },
+      ],
     },
   ],
 };
@@ -387,13 +335,13 @@ const breadcrumbJsonLd = {
     {
       "@type": "ListItem",
       position: 2,
-      name: "Nail Polish",
+      name: "IDN SLOT",
       item: "https://franknails.com/collections/nail-polish",
     },
     {
       "@type": "ListItem",
       position: 3,
-      name: "Sunny AF",
+      name: "RAJAKETE",
       item: "https://franknails.com/products/mood",
     },
   ],
@@ -406,26 +354,42 @@ const faqJsonLd = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "How long does the nail polish last?",
+      name: "Apa itu RAJAKETE?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Our formula is designed to last up to 7-10 days with a proper base and top coat application.",
+        text: "RAJAKETE adalah situs IDN Slot resmi yang menawarkan pengalaman bermain slot gacor dengan minimal deposit termurah, yakni hanya 1000 rupiah melalui metode Scan QRIS tercepat.",
       },
     },
     {
       "@type": "Question",
-      name: "Is this polish safe for pregnancy?",
+      name: "Berapa minimal deposit di RAJAKETE?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes! Our 10-free formula means it's free of the most common toxic chemicals, making it safe for you and your little one.",
+        text: "Minimal deposit di RAJAKETE sangat terjangkau, yaitu hanya 1000 rupiah. Ini memungkinkan pemain menikmati permainan IDN Slot tanpa harus mengeluarkan modal besar.",
       },
     },
     {
       "@type": "Question",
-      name: "How many coats do I need for full opacity?",
+      name: "Bagaimana cara deposit via QRIS di RAJAKETE?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Sunny AF provides great coverage. We recommend 2 thin coats for the perfect, opaque high-gloss finish.",
+        text: "Anda cukup memilih metode deposit QRIS, scan kode yang muncul, dan saldo akan otomatis masuk ke akun Anda dalam waktu hanya 1 detik tanpa potongan.",
+      },
+    },
+    {
+      "@type": "Question",
+      name: "Apa keunggulan utama bergabung dengan RAJAKETE?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "Keunggulan utamanya adalah proses transaksi super cepat via QRIS (1 detik), minimal deposit rendah 1000 perak, keamanan data terjamin, dan tanpa janji palsu dalam memberikan kenyamanan bermain.",
+      },
+    },
+    {
+      "@type": "Question",
+      name: "Apakah bermain di RAJAKETE gampang menang?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "Ya, RAJAKETE menyediakan berbagai pilihan game IDN Slot gacor yang dikenal mudah menang (gampang JP) dengan sistem yang adil, aman, dan transparan.",
       },
     },
   ],
