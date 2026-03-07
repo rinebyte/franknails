@@ -79,21 +79,21 @@ export const metadata: Metadata = {
     siteName: "To Be Frank",
     images: [
       {
-        url: "https://franknails.com/product/mood/BottleComp_SunnyAF.webp",
+        url: "https://franknails.com/products/mood/BottleComp_SunnyAF.webp",
         width: 1200,
         height: 1200,
         alt: "Sunny AF - Bold Yellow Nail Polish by To Be Frank",
         type: "image/webp",
       },
       {
-        url: "https://franknails.com/product/mood/SunnyAF1.jpg",
+        url: "https://franknails.com/products/mood/SunnyAF1.jpg",
         width: 1200,
         height: 1200,
         alt: "Sunny AF Yellow Nail Polish applied on nails",
         type: "image/jpeg",
       },
       {
-        url: "https://franknails.com/product/mood/SunnyAF2.jpg",
+        url: "https://franknails.com/products/mood/SunnyAF2.jpg",
         width: 1200,
         height: 1200,
         alt: "Sunny AF Nail Polish close-up finish",
@@ -114,7 +114,7 @@ export const metadata: Metadata = {
     description:
       "Bold, streak-free yellow nail polish. Vegan, cruelty-free, 10-free. Full coverage in 2 coats. Shop now.",
     images: {
-      url: "https://franknails.com/product/mood/BottleComp_SunnyAF.webp",
+      url: "https://franknails.com/products/mood/BottleComp_SunnyAF.webp",
       alt: "Sunny AF - Bold Yellow Nail Polish by To Be Frank",
     },
   },
@@ -137,9 +137,9 @@ export const metadata: Metadata = {
   // === Icons & App Manifest ===
   icons: {
     icon: [
-      { url: "/product/mood/Frank_Favicon_32x32.png", sizes: "any" },
-      { url: "/product/mood/Frank_Favicon_16x16.png", sizes: "16x16", type: "image/png" },
-      { url: "/product/mood/Frank_Favicon_32x32.png", sizes: "32x32", type: "image/png" },
+      { url: "/products/mood/Frank_Favicon_32x32.png", sizes: "any" },
+      { url: "/products/mood/Frank_Favicon_16x16.png", sizes: "16x16", type: "image/png" },
+      { url: "/products/mood/Frank_Favicon_32x32.png", sizes: "32x32", type: "image/png" },
     ],
     apple: [
       { url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" },
@@ -152,7 +152,7 @@ export const metadata: Metadata = {
       },
     ],
   },
-  manifest: "/product/mood/site.webmanifest",
+  manifest: "/products/mood/site.webmanifest",
 
   verification: {
     google: "GOOGLE_SITE_VERIFICATION_CODE",
@@ -188,10 +188,10 @@ const productJsonLd = {
   "@type": "Product",
   name: "Sunny AF - Yellow Nail Polish",
   image: [
-    "https://franknails.com/product/mood/BottleComp_SunnyAF.webp",
-    "https://franknails.com/product/mood/SunnyAF1.jpg",
-    "https://franknails.com/product/mood/SunnyAF2.jpg",
-    "https://franknails.com/product/mood/SunnyAF3.jpg",
+    "https://franknails.com/products/mood/BottleComp_SunnyAF.webp",
+    "https://franknails.com/products/mood/SunnyAF1.jpg",
+    "https://franknails.com/products/mood/SunnyAF2.jpg",
+    "https://franknails.com/products/mood/SunnyAF3.jpg",
   ],
   description:
     "Bold, bright yellow nail polish with streak-free coverage in just 2 coats. Vegan, cruelty-free, and 10-free formula. Made in the USA by To Be Frank.",

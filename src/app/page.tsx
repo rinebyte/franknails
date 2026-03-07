@@ -5,7 +5,7 @@ import Link from "next/link";
 import { useState } from "react";
 
 export default function ProductMoodPage() {
-  const [activeImage, setActiveImage] = useState("/product/mood/BottleComp_SunnyAF.webp");
+  const [activeImage, setActiveImage] = useState("/products/mood/BottleComp_SunnyAF.webp");
   const [isAddingToCart, setIsAddingToCart] = useState(false);
   const [cartCount, setCartCount] = useState(0);
   const [showToast, setShowToast] = useState(false);
@@ -114,10 +114,10 @@ export default function ProductMoodPage() {
             
             <div className="grid grid-cols-4 gap-4">
               {[
-                "/product/mood/BottleComp_SunnyAF.webp",
-                "/product/mood/SunnyAF1.jpg",
-                "/product/mood/SunnyAF2.jpg",
-                "/product/mood/SunnyAF3.jpg"
+                "/products/mood/BottleComp_SunnyAF.webp",
+                "/products/mood/SunnyAF1.jpg",
+                "/products/mood/SunnyAF2.jpg",
+                "/products/mood/SunnyAF3.jpg"
               ].map((img, i) => (
                 <div 
                   key={i} 
@@ -162,10 +162,10 @@ export default function ProductMoodPage() {
                 
                 <div className="grid grid-cols-2 gap-4 mt-10">
                   <div className="aspect-4/3 rounded-xl overflow-hidden relative border border-white/10 group cursor-pointer">
-                    <Image src="/product/mood/SunnyAF1.jpg" alt="Swatching" fill sizes="(max-width: 768px) 50vw, 33vw" className="object-cover transition-transform duration-700 group-hover:scale-105" />
+                    <Image src="/products/mood/SunnyAF1.jpg" alt="Swatching" fill sizes="(max-width: 768px) 50vw, 33vw" className="object-cover transition-transform duration-700 group-hover:scale-105" />
                   </div>
                   <div className="aspect-4/3 rounded-xl overflow-hidden relative border border-white/10 group cursor-pointer">
-                    <Image src="/product/mood/SunnyAF2.jpg" alt="Application" fill sizes="(max-width: 768px) 50vw, 33vw" className="object-cover transition-transform duration-700 group-hover:scale-105" />
+                    <Image src="/products/mood/SunnyAF2.jpg" alt="Application" fill sizes="(max-width: 768px) 50vw, 33vw" className="object-cover transition-transform duration-700 group-hover:scale-105" />
                   </div>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function ProductMoodPage() {
                 <div className="relative h-16 w-16 flex-none rounded-full overflow-hidden border-2 border-zinc-700 bg-zinc-800">
                   {/* Mock Seller Avatar */}
                   <Image 
-                    src="/product/mood/BottleComp_SunnyAF.webp" 
+                    src="/products/mood/BottleComp_SunnyAF.webp" 
                     alt="To Be Frank Official" 
                     fill 
                     sizes="64px"
