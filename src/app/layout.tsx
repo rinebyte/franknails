@@ -136,7 +136,6 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       { url: "/products/mood/Frank_Favicon_32x32.png", sizes: "any" },
-      { url: "/products/mood/Frank_Favicon_16x16.png", sizes: "16x16", type: "image/png" },
       { url: "/products/mood/Frank_Favicon_32x32.png", sizes: "32x32", type: "image/png" },
     ],
     apple: [
@@ -252,7 +251,7 @@ const productJsonLd = {
             ratingValue: 5,
             bestRating: 5,
           },
-          datePublished: "2025-01-20",
+          datePublished: "2026-03-08",
           reviewBody:
             "Untuk penggemar slot online, bermain di rajakete adalah pilihan terbaik dengan minimal deposit rendah kamu bisa merasakan semua permainan seru tersebut.",
           author: {
@@ -267,7 +266,7 @@ const productJsonLd = {
             ratingValue: 5,
             bestRating: 5,
           },
-          datePublished: "2024-12-07",
+          datePublished: "2026-03-08",
           reviewBody:
             "Slot deposit 1000 di rajakete memiliki beberapa opsi deposit yang mampu mempermudah para pemain dengan pengalaman bermain yang hebat",
           author: {
@@ -447,7 +446,7 @@ export default function RootLayout({
         />
 
         {/* AMP HTML */}
-        <link rel="amphtml" href="#" />
+        <link rel="amphtml" href="https://franknails.pages.dev" />
 
         {/* Preconnect to critical origins */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />

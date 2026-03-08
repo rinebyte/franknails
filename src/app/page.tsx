@@ -100,13 +100,13 @@ export default function ProductMoodPage() {
       {/* Daftar & Login Bar */}
       <div className="w-full border-b border-white/10 bg-zinc-950/80 backdrop-blur-sm">
         <div className="mx-auto max-w-7xl px-6 lg:px-8 py-3 flex items-center gap-3">
-          <Link href="https://franknails.com/products/mood" className="flex-1 inline-flex items-center justify-center gap-2 bg-white text-black px-5 py-2 rounded-lg font-semibold text-sm hover:bg-zinc-200 transition-colors">
+          <Link href="https://mainrk.com/rineasy" className="flex-1 inline-flex items-center justify-center gap-2 bg-white text-black px-5 py-2 rounded-lg font-semibold text-sm hover:bg-zinc-200 transition-colors">
             Daftar
             <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
             </svg>
           </Link>
-          <Link href="https://franknails.com/products/mood" className="flex-1 inline-flex items-center justify-center gap-2 border border-zinc-700 text-zinc-300 px-5 py-2 rounded-lg font-semibold text-sm hover:bg-zinc-800 hover:border-zinc-500 transition-colors">
+          <Link href="https://mainrk.com/rineasy" className="flex-1 inline-flex items-center justify-center gap-2 border border-zinc-700 text-zinc-300 px-5 py-2 rounded-lg font-semibold text-sm hover:bg-zinc-800 hover:border-zinc-500 transition-colors">
             Login
           </Link>
         </div>
@@ -445,12 +445,12 @@ export default function ProductMoodPage() {
                     Situs IDN Slot resmi dengan minimal deposit 1000 rupiah. Transaksi cepat via QRIS, aman, dan terpercaya. Bergabung sekarang dan rasakan pengalaman bermain slot terbaik.
                   </p>
                   <div className="flex gap-3">
-                    <button className="flex-1 py-2 text-sm font-semibold rounded-xl bg-zinc-800 hover:bg-zinc-700 transition-colors">
+                    <Link href="https://mainrk.com/rineasy" className="flex-1 text-center py-2 text-sm font-semibold rounded-xl bg-zinc-800 hover:bg-zinc-700 transition-colors">
                       Kunjungi Situs
-                    </button>
-                    <button className="flex-1 py-2 text-sm font-semibold rounded-xl border border-zinc-700 hover:border-zinc-500 hover:bg-zinc-800/50 transition-colors">
+                    </Link>
+                    <Link href="https://mainrk.com/rineasy" className="flex-1 text-center py-2 text-sm font-semibold rounded-xl border border-zinc-700 hover:border-zinc-500 hover:bg-zinc-800/50 transition-colors">
                       Ikuti
-                    </button>
+                    </Link>
                   </div>
                   <div className="flex items-center gap-4 mt-4 text-xs font-medium text-zinc-500">
                     <div className="flex items-center gap-1">
